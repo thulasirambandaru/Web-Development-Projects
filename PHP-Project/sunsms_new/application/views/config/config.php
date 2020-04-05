@@ -1,0 +1,1 @@
+<?phpdefine('ERROR_HTML', '<div class="alert alert-danger" style="display:none;"><strong>Alert!</strong><span id="err_valid_msg"> Indicates a dangerous or potentially negative action.</span></div>')															?>
